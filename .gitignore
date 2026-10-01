@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Model artifacts
+models/*
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
