@@ -5,11 +5,11 @@ __pycache__/
 # Virtual environment
 .venv/
 
+# Raw data
+data/RAWCombinedLapsWeather2022-2025.csv
+
 # Jupyter
 .ipynb_checkpoints/
-
-# Data
-data/
 
 # Model artifacts
 models/*
